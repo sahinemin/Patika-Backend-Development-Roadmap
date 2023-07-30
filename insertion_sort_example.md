@@ -36,4 +36,4 @@ STEPS
 
 ## After Ordering Finding 18
 
-Average Case
+    Average Case
